@@ -1,0 +1,14 @@
+C:\Users\paulo\Downloads\Willian\ListCol\ListCol\bin\Debug\net8.0\ListCol.exe
+C:\Users\paulo\Downloads\Willian\ListCol\ListCol\bin\Debug\net8.0\ListCol.deps.json
+C:\Users\paulo\Downloads\Willian\ListCol\ListCol\bin\Debug\net8.0\ListCol.runtimeconfig.json
+C:\Users\paulo\Downloads\Willian\ListCol\ListCol\bin\Debug\net8.0\ListCol.dll
+C:\Users\paulo\Downloads\Willian\ListCol\ListCol\bin\Debug\net8.0\ListCol.pdb
+C:\Users\paulo\Downloads\Willian\ListCol\ListCol\obj\Debug\net8.0\ListCol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\Downloads\Willian\ListCol\ListCol\obj\Debug\net8.0\ListCol.AssemblyInfoInputs.cache
+C:\Users\paulo\Downloads\Willian\ListCol\ListCol\obj\Debug\net8.0\ListCol.AssemblyInfo.cs
+C:\Users\paulo\Downloads\Willian\ListCol\ListCol\obj\Debug\net8.0\ListCol.csproj.CoreCompileInputs.cache
+C:\Users\paulo\Downloads\Willian\ListCol\ListCol\obj\Debug\net8.0\ListCol.dll
+C:\Users\paulo\Downloads\Willian\ListCol\ListCol\obj\Debug\net8.0\refint\ListCol.dll
+C:\Users\paulo\Downloads\Willian\ListCol\ListCol\obj\Debug\net8.0\ListCol.pdb
+C:\Users\paulo\Downloads\Willian\ListCol\ListCol\obj\Debug\net8.0\ListCol.genruntimeconfig.cache
+C:\Users\paulo\Downloads\Willian\ListCol\ListCol\obj\Debug\net8.0\ref\ListCol.dll
